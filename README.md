@@ -62,7 +62,7 @@ Bem-vindo ao **Tracker**! Um projeto moderno para gestão de pedidos e tracker, 
 ## 🔧 Como Executar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/MatheusForstner/pizzariahut.git
+   git clone https://github.com/MatheusForstner/tracker.git
    ```
 2. Abra o comando no [localhost](http://localhost:8080/) `npm run dev` em seu navegador preferido.
 
